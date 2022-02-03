@@ -1,11 +1,5 @@
 # PROJET PACMAN
 
-## Notre Groupe
-
-- NGUYEN Vinh Hoa
-- NGUYEN Huynh Dung
-- BUI Duc Trieu
-
 ## INTRO
 
 Bienvenue dans notre jeu PACMAN. Suivez les traces de Joker et Harley volant des diamants, dépassant le Batman en gardant et en s'échappant. Avec 4 niveaux, correspondant à 4 niveaux de difficulté différents, nous espérons que vous passerez des moments de détente tout aussi dramatiques.
@@ -31,4 +25,4 @@ Bienvenue dans notre jeu PACMAN. Suivez les traces de Joker et Harley volant des
 - 2 Joueur: Joker et Harley mangent tous les diamants et atteignent la porte de sortie ensemble, si l'un des deux s'épuise, le jeu se termine.
 - Lorsque vous perdez, vous devrez jouer depuis le début du niveau 1.
 
-### Merci sincèrement d'avoir fait l'expérience de notre jeu
+
